@@ -37,7 +37,9 @@ Análisis de embudo y retención para Mercado Libre**
   que la mayor cantidad de usuarios cae drásicamente después del 21 dìa.
   
 - **Tablas de Resultados**
-  **Embudo General**
-  
 
+  **Embudo General**
+
+   <br>
+   <img src="https://bjames93.github.io/Embudo_General_Mercado_Libre.png" width="900" alt="Embudo Mercado Libre">
 
