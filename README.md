@@ -38,17 +38,17 @@ Análisis de embudo y retención para Mercado Libre**
   
 ### Tablas de Resultados
 
-**Embudo General**
-
+**1. Embudo General**
 ![Embudo Mercado Libre](https://bjames93.github.io/Embudo_General_Mercado_Libre.png)
 
+---
 
-**Embudo_General_por_pais**
-
+**2. Embudo General por País**
 ![Embudo Pais](https://bjames93.github.io/Embudo_General_por_pais.png)
 
-**Retencion por Pais**
+---
 
-![Retencion](https://bjames93.github.io/Retencion_por_pais.png)
+**3. Retención por País**
+![Retención](https://bjames93.github.io/Retencion_por_pais.png)
 
 
