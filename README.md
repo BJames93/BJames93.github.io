@@ -36,10 +36,19 @@ Análisis de embudo y retención para Mercado Libre**
   lo tenemos de seleccionar el producto a agregarlo al carrito con un 65.8% de impacto. Por el otro lado identificamos
   que la mayor cantidad de usuarios cae drásicamente después del 21 dìa.
   
-- **Tablas de Resultados**
+### Tablas de Resultados
 
-  **Embudo General**
+**Embudo General**
 
-   <br>
-   <img src="https://bjames93.github.io/Embudo_General_Mercado_Libre.png" width="900" alt="Embudo Mercado Libre">
+![Embudo Mercado Libre](https://bjames93.github.io/Embudo_General_Mercado_Libre.png)
+
+
+**Embudo_General_por_pais**
+
+![Embudo Pais](https://bjames93.github.io/Embudo_General_por_pais.png)
+
+**Retencion por Pais**
+
+![Retencion](https://bjames93.github.io/Retencion_por_pais.png)
+
 
